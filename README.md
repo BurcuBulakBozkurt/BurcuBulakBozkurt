@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Burcu!<br>🌍 I live in Berlin<br>🌱 I am currently student @ 42 Berlin<br>⚡ I love traveling and dancing<br>✉️  You can contact me at bucubulak@gmail.com
+👋 Hi, I am Burcu!<br>🌍 I live in Berlin.<br>👨🏻‍💻 I am currently Software Engineering Student @ 42 Berlin<br>🌱 Learning C since Feb' 2023<br>⚡ I love traveling and dancing<br>✉️  You can contact me at bucubulak@gmail.com
 
 
 ## 🌐 Socials:
